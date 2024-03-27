@@ -1,0 +1,23 @@
+{
+    "errorCode": 0,
+    "errorMessage": null,
+    "responseBody": {
+        "AssetInfo": {
+            "WarrantyExtensionValidUntilDatetime": "2025-11-25",
+            "PurchaseType": 0,
+            "WarrantyExtensionRegistrationDatetime": "2023-11-24T19:38:48.616Z",
+            "CampaignName": "",
+            "TomplayCode": "",
+            "ProductId": "id_1457730",
+            "TomplayRegistrationDatetime": null,
+            "FlowKeyCode": "",
+            "RegistrationDatetime": "2023-11-24T19:38:48.616Z",
+            "FlowKeyRegistrationDatetime": null,
+            "SerialNumber": "IJN140754",
+            "ProductUse": 0,
+            "PurchaseDate": "2023-11-25",
+            "Variation": "Natural",
+            "AssetId": "02i2j000008odJ1AAI"
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "callId": "a9a4691f13694932830c2d0e15c14799",
+    "errorCode": 0,
+    "apiVersion": 2,
+    "statusCode": 200,
+    "statusReason": "OK",
+    "time": "2023-11-24T20:17:27.717Z",
+    "registeredTimestamp": 1700235121,
+    "UID": "1c6ad791715b438d81c36ef9f2a1d7bd",
+    "UIDSignature": "mEr8IJ9rgNOHfgtux6ys1aiyhJ4=",
+    "signatureTimestamp": "1700857047",
+    "created": "2023-11-17T15:32:01.102Z",
+    "createdTimestamp": 1700235121,
+    "data": {
+        "occupation": {},
+        "gender": "Female",
+        "loginCount": 4
+    },
+    "subscriptions": {
+        "newsletter1": {
+            "email": {
+                "isSubscribed": false,
+                "lastUpdatedSubscriptionState": "2023-11-17T15:32:01.54Z",
+                "tags": null,
+                "doubleOptIn": {
+                    "doiConditionallyConfirmed": null,
+                    "confirmTime": null,
+                    "emailSentTime": null,
+                    "status": "NotConfirmed"
+                }
+            }
+        },
+        "newsletter2": {
+            "email": {
+                "isSubscribed": false,
+                "lastUpdatedSubscriptionState": "2023-11-17T15:32:01.54Z",
+                "tags": null,
+                "doubleOptIn": {
+                    "doiConditionallyConfirmed": null,
+                    "confirmTime": null,
+                    "emailSentTime": null,
+                    "status": "NotConfirmed"
+                }
+            }
+        }
+    },
+    "preferences": {
+        "terms.country": {
+            "isConsentGranted": true,
+            "docDate": "2019-03-26T00:00:00.000Z",
+            "lang": "id",
+            "lastConsentModified": "2023-11-17T15:32:01.205Z",
+            "actionTimestamp": "2023-11-17T15:32:01.205Z",
+            "tags": [],
+            "customData": [],
+            "entitlements": [],
+            "locales": {
+                "id": {
+                    "docDate": "2019-03-26T00:00:00.000Z"
+                }
+            }
+        },
+        "privacy.country": {
+            "isConsentGranted": true,
+            "docDate": "2021-07-29T00:00:00.000Z",
+            "lang": "id",
+            "lastConsentModified": "2023-11-17T15:32:01.205Z",
+            "actionTimestamp": "2023-11-17T15:32:01.205Z",
+            "tags": [],
+            "customData": [],
+            "entitlements": [],
+            "locales": {
+                "id": {
+                    "docDate": "2021-07-29T00:00:00.000Z"
+                }
+            }
+        },
+        "countryAgeConsent": {
+            "isConsentGranted": true,
+            "docDate": "2022-02-28T00:00:00.000Z",
+            "lang": "id",
+            "lastConsentModified": "2023-11-17T15:32:01.205Z",
+            "actionTimestamp": "2023-11-17T15:32:01.205Z",
+            "tags": [],
+            "customData": [],
+            "entitlements": [],
+            "locales": {
+                "id": {
+                    "docDate": "2022-02-28T00:00:00.000Z"
+                }
+            }
+        }
+    },
+    "emails": {
+        "verified": ["dohayar581@tbeebk.com"],
+        "unverified": []
+    },
+    "isActive": true,
+    "isRegistered": true,
+    "isVerified": true,
+    "lastLogin": "2023-11-24T20:17:27.655Z",
+    "lastLoginTimestamp": 1700857047,
+    "lastUpdated": "2023-11-24T19:43:41.319Z",
+    "lastUpdatedTimestamp": 1700855021319,
+    "loginProvider": "site",
+    "oldestDataUpdated": "2023-11-17T15:32:01.102Z",
+    "oldestDataUpdatedTimestamp": 1700235121102,
+    "profile": {
+        "firstName": "Uhti",
+        "lastName": "Gedi",
+        "age": 25,
+        "birthDay": 9,
+        "birthMonth": 7,
+        "birthYear": 1998,
+        "country": "Indonesia",
+        "email": "dohayar581@tbeebk.com",
+        "state": "Kalimantan Barat",
+        "zip": "06135"
+    },
+    "registered": "2023-11-17T15:32:01.971Z",
+    "socialProviders": "site",
+    "verified": "2023-11-17T15:32:21.401Z",
+    "verifiedTimestamp": 1700235141401,
+    "userInfo": {
+        "UID": "1c6ad791715b438d81c36ef9f2a1d7bd",
+        "UIDSig": "NWWnN2/sjYhIhSSNYF7nL/GpScY=",
+        "UIDSignature": "mEr8IJ9rgNOHfgtux6ys1aiyhJ4=",
+        "signatureTimestamp": "1700857047",
+        "isSiteUser": true,
+        "isConnected": true,
+        "isTempUser": false,
+        "isLoggedIn": true,
+        "loginProvider": "site",
+        "loginProviderUID": "1c6ad791715b438d81c36ef9f2a1d7bd",
+        "isSiteUID": true,
+        "identities": [{
+            "provider": "site",
+            "providerUID": "1c6ad791715b438d81c36ef9f2a1d7bd",
+            "allowsLogin": true,
+            "isLoginIdentity": true,
+            "isExpiredSession": false,
+            "lastUpdated": "2023-11-24T20:17:27.6555409Z",
+            "lastUpdatedTimestamp": 1700857047655,
+            "oldestDataUpdated": "2023-11-17T15:32:01.102Z",
+            "oldestDataUpdatedTimestamp": 1700235121102,
+            "firstName": "Uhti",
+            "lastName": "Gedi",
+            "nickname": "Uhti Gedi",
+            "age": 25,
+            "birthDay": 9,
+            "birthMonth": 7,
+            "birthYear": 1998,
+            "country": "Indonesia",
+            "email": "dohayar581@tbeebk.com",
+            "state": "Kalimantan Barat",
+            "zip": "06135"
+        }],
+        "nickname": "Uhti Gedi",
+        "firstName": "Uhti",
+        "lastName": "Gedi",
+        "age": 25,
+        "birthDay": 9,
+        "birthMonth": 7,
+        "birthYear": 1998,
+        "email": "dohayar581@tbeebk.com",
+        "country": "Indonesia",
+        "state": "Kalimantan Barat",
+        "zip": "06135",
+        "capabilities": "null",
+        "providers": "site",
+        "oldestDataUpdatedTimestamp": 1700235121,
+        "oldestDataAge": 621927,
+        "statusReason": "OK",
+        "statusCode": 200,
+        "timestamp": "2023-11-24 20:17:27",
+        "time": "2023-11-24T20:17:27.702Z",
+        "errorCode": 0
+    },
+    "newUser": false,
+    "sessionInfo": {
+        "login_token": "st2.ffs.AcbHPCd_ZQ.qz9UKlmRXwYQhF5f-BNenmD90BvnMb6-tC2EZZ0xNVXhidzvsR-ohl5bcs_f3rtASgQR8DgkMy8SdGPLFZ6vWWMiaYVO4hJX26J7VphFXAx6ifIW5ZXTyAMeLJC9B0D4.n53uxI0kB5uiqxrPn39DDwVz7z6ugVBTj31O-hxTTdRVoONOrfqlMwQlGPbMvH3e5hsIdSX5bGsBYF6YrpWzdA.sc3",
+        "expires_in": "2592000"
+    }
+}
